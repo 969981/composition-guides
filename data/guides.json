@@ -1,0 +1,454 @@
+{
+  "source": "https://www.slaycamera.com/guides",
+  "license": "CC-BY-4.0",
+  "guides": [
+    {
+      "id": 1,
+      "slug": "portrait-1",
+      "name": "Portrait 1",
+      "category": "Portrait",
+      "principle": "Centered full-body portrait",
+      "short": "Full-body portrait, head centered, shot at 1.5x from 4m away.",
+      "summary": "A full-length portrait with the subject standing in the middle of the frame and plenty of scene around them. The centered placement feels calm and confident, and the distance shows the whole outfit.",
+      "steps": [
+        {
+          "label": "Camera height",
+          "detail": "Hold the camera at the subject's chest height."
+        },
+        {
+          "label": "1.5x zoom",
+          "detail": "Shoot with 1.5x zoom to keep proportions natural."
+        },
+        {
+          "label": "4m+ distance",
+          "detail": "Stand at least 4 metres away from the subject."
+        },
+        {
+          "label": "Head at center",
+          "detail": "Align the subject's head with the center of the frame."
+        }
+      ],
+      "tip": null,
+      "diagram": "diagrams/01-portrait-1.webp",
+      "example": "examples/01-portrait-1.webp",
+      "url": "https://www.slaycamera.com/guides/portrait-1",
+      "article": "https://www.slaycamera.com/blog/center-subject-own-the-frame"
+    },
+    {
+      "id": 2,
+      "slug": "portrait-2",
+      "name": "Portrait 2",
+      "category": "Portrait",
+      "principle": "Rule of thirds portrait",
+      "short": "Portrait with the head on the top third line, shot at 2x.",
+      "summary": "A full or seated portrait with the subject's head on the top third line. Tighter than Portrait 1, so the person fills more of the frame while the setting still reads.",
+      "steps": [
+        {
+          "label": "Camera height",
+          "detail": "Hold the camera at the subject's chest height."
+        },
+        {
+          "label": "2x zoom",
+          "detail": "Shoot with 2x zoom."
+        },
+        {
+          "label": "4m+ distance",
+          "detail": "Stand at least 4 metres away from the subject."
+        },
+        {
+          "label": "Head on top 1/3 line",
+          "detail": "Align the head near the top third guide line."
+        }
+      ],
+      "tip": null,
+      "diagram": "diagrams/02-portrait-2.webp",
+      "example": "examples/02-portrait-2.webp",
+      "url": "https://www.slaycamera.com/guides/portrait-2",
+      "article": "https://www.slaycamera.com/blog/low-angle-go-dramatic"
+    },
+    {
+      "id": 3,
+      "slug": "close-up",
+      "name": "Close Up",
+      "category": "Portrait",
+      "principle": "Telephoto half-body portrait",
+      "short": "Half-body telephoto portrait at 3x for a flattering, flat background.",
+      "summary": "A closer, half-body portrait shot on the telephoto lens. Standing back and zooming in flattens the background and gives a flattering, magazine-style look.",
+      "steps": [
+        {
+          "label": "Camera height",
+          "detail": "Hold the camera at the subject's chest height."
+        },
+        {
+          "label": "3x zoom",
+          "detail": "Shoot with 3x zoom."
+        },
+        {
+          "label": "4m+ distance",
+          "detail": "Stand at least 4 metres away from the subject."
+        },
+        {
+          "label": "Head on top 1/3 line",
+          "detail": "Align the head near the top third guide line."
+        }
+      ],
+      "tip": null,
+      "diagram": "diagrams/03-close-up.webp",
+      "example": "examples/03-close-up.webp",
+      "url": "https://www.slaycamera.com/guides/close-up",
+      "article": "https://www.slaycamera.com/blog/texture-is-emotion-in-close-up"
+    },
+    {
+      "id": 4,
+      "slug": "side-chick",
+      "name": "Side Chick",
+      "category": "Portrait",
+      "principle": "Off-center environmental portrait",
+      "short": "Off-center portrait that lets the scene tell the story, at 3–4x.",
+      "summary": "The subject sits to one side of the frame while the scene — a café table, a doorway, a street — fills the rest. It tells a story about where the person is, not just who they are.",
+      "steps": [
+        {
+          "label": "Camera height",
+          "detail": "Hold the camera at the subject's chest height."
+        },
+        {
+          "label": "3–4x zoom",
+          "detail": "Shoot with 3–4x zoom."
+        },
+        {
+          "label": "8m+ distance",
+          "detail": "Stand at least 8 metres away from the subject."
+        },
+        {
+          "label": "Head on top 1/3 line",
+          "detail": "Place the subject in the side box with the head near the top third line."
+        }
+      ],
+      "tip": null,
+      "diagram": "diagrams/04-side-chick.webp",
+      "example": "examples/04-side-chick.webp",
+      "url": "https://www.slaycamera.com/guides/side-chick",
+      "article": "https://www.slaycamera.com/blog/break-the-rule-keep-the-feeling"
+    },
+    {
+      "id": 5,
+      "slug": "travel-shot",
+      "name": "Travel Shot",
+      "category": "Travel & scenery",
+      "principle": "Small subject, big scenery",
+      "short": "Small subject at the bottom, big scenery above — the classic travel shot.",
+      "summary": "The classic travel photo where the place is the star: the person is small at the bottom of the frame and the landmark or landscape fills everything above.",
+      "steps": [
+        {
+          "label": "Front light",
+          "detail": "Face the scene with the sun behind you, ideally when shadows are minimal."
+        },
+        {
+          "label": "High 15°",
+          "detail": "Look down at a 15° angle, shooting from slightly higher than the subject."
+        },
+        {
+          "label": "2–3x zoom",
+          "detail": "Stay 5–10 metres from the subject and use 2–3x zoom."
+        },
+        {
+          "label": "Subject placement",
+          "detail": "Place the subject small at the bottom center to emphasize the scenery."
+        }
+      ],
+      "tip": "For two people, place them in the bottom corners facing each other.",
+      "diagram": "diagrams/05-travel-shot.webp",
+      "example": "examples/05-travel-shot.webp",
+      "url": "https://www.slaycamera.com/guides/travel-shot",
+      "article": "https://www.slaycamera.com/blog/clean-horizon-keeps-it-calm"
+    },
+    {
+      "id": 6,
+      "slug": "one-third",
+      "name": "One-Third",
+      "category": "Travel & scenery",
+      "principle": "Rule of thirds — subject in the lower third",
+      "short": "Main scene in one third of the frame, sky in the other two.",
+      "summary": "A scenery shot where the main element — a bridge, a building, a horizon — sits in one third of the frame and the sky gets the other two. Simple, airy and very Instagram.",
+      "steps": [
+        {
+          "label": "Any direction",
+          "detail": "Works in any light direction; looks especially natural with side light."
+        },
+        {
+          "label": "Eye level",
+          "detail": "Set the camera at eye level and shoot."
+        },
+        {
+          "label": "1.5x zoom",
+          "detail": "Stay at least 3 metres from the scene and use 1.5x zoom."
+        },
+        {
+          "label": "1/3 placement",
+          "detail": "Place the main scene in the 1/3 area, separate it from its surroundings and line it up with the rule-of-thirds grid."
+        }
+      ],
+      "tip": "Use horizontal lines or pillars, such as bridges, to separate the areas.",
+      "diagram": "diagrams/06-one-third.webp",
+      "example": "examples/06-one-third.webp",
+      "url": "https://www.slaycamera.com/guides/one-third",
+      "article": "https://www.slaycamera.com/blog/rule-of-thirds-let-the-sky-breathe"
+    },
+    {
+      "id": 7,
+      "slug": "two-third",
+      "name": "Two-Third",
+      "category": "Travel & scenery",
+      "principle": "Rule of thirds — subject fills two-thirds",
+      "short": "Main subject fills two-thirds of the frame, with a strip for balance.",
+      "summary": "The counterpart to One-Third: the main subject — a tower, a tree, a building — fills two-thirds of the frame, with a strip of sky or ground for balance.",
+      "steps": [
+        {
+          "label": "Any direction",
+          "detail": "Works in any light direction; looks especially natural with side light."
+        },
+        {
+          "label": "Eye level",
+          "detail": "Set the camera at eye level and shoot."
+        },
+        {
+          "label": "1.5x zoom",
+          "detail": "Stay at least 3 metres from the scene and use 1.5x zoom."
+        },
+        {
+          "label": "2/3 placement",
+          "detail": "Place the main scene in the 2/3 area, separate it from its surroundings and line it up with the rule-of-thirds grid."
+        }
+      ],
+      "tip": "Use horizontal lines or pillar-like elements to separate the areas.",
+      "diagram": "diagrams/07-two-third.webp",
+      "example": "examples/07-two-third.webp",
+      "url": "https://www.slaycamera.com/guides/two-third",
+      "article": "https://www.slaycamera.com/blog/two-thirds-focus-rule"
+    },
+    {
+      "id": 8,
+      "slug": "vanishing-point",
+      "name": "Vanishing Point",
+      "category": "Food & café",
+      "principle": "Corner lines converging on the subject",
+      "short": "Table edges converge on the subject for café and food shots.",
+      "summary": "A café or food shot where the edges of the table run toward the subject, pulling the eye straight to it. The table corner becomes a frame within the frame.",
+      "steps": [
+        {
+          "label": "Side light",
+          "detail": "Use natural light from a window-side seat."
+        },
+        {
+          "label": "High 45°",
+          "detail": "Shoot looking down at a 45° angle from above."
+        },
+        {
+          "label": "2–4x zoom",
+          "detail": "Stay at least 2 metres from the scene and use 2–4x zoom."
+        },
+        {
+          "label": "Corner placement",
+          "detail": "Place the subject at the center, inside the square table corner."
+        }
+      ],
+      "tip": "Clear everything except the background, the table and the subject.",
+      "diagram": "diagrams/08-vanishing-point.webp",
+      "example": "examples/08-vanishing-point.webp",
+      "url": "https://www.slaycamera.com/guides/vanishing-point",
+      "article": "https://www.slaycamera.com/blog/vanishing-point-composition-explained"
+    },
+    {
+      "id": 9,
+      "slug": "one-point-vertex",
+      "name": "One-Point Vertex",
+      "category": "Food & café",
+      "principle": "Single subject on a grid intersection",
+      "short": "One subject on a grid intersection, empty space opposite.",
+      "summary": "One subject — a drink, a dessert — sits on a grid intersection with empty space on the opposite side. The asymmetry gives depth while keeping all attention on the subject.",
+      "steps": [
+        {
+          "label": "Side light",
+          "detail": "Use natural light from a window-side seat."
+        },
+        {
+          "label": "High 45°",
+          "detail": "Shoot looking down at a 45° angle from above."
+        },
+        {
+          "label": "2–4x zoom",
+          "detail": "Stay at least 2 metres away and use 2–4x zoom."
+        },
+        {
+          "label": "Vertex placement",
+          "detail": "Place the subject diagonally at a grid intersection and leave the opposite side empty."
+        }
+      ],
+      "tip": "This emphasizes the subject while conveying depth.",
+      "diagram": "diagrams/09-one-point-vertex.webp",
+      "example": "examples/09-one-point-vertex.webp",
+      "url": "https://www.slaycamera.com/guides/one-point-vertex",
+      "article": "https://www.slaycamera.com/blog/find-symmetry-calm-the-shot"
+    },
+    {
+      "id": 10,
+      "slug": "two-point-vertex",
+      "name": "Two-Point Vertex",
+      "category": "Food & café",
+      "principle": "Two subjects on a diagonal",
+      "short": "Two subjects on a diagonal — small at the bottom, large at the top.",
+      "summary": "Two subjects — say a drink and a pastry — sit on opposite grid intersections along a diagonal. The diagonal line between them adds energy and leads the eye across the frame.",
+      "steps": [
+        {
+          "label": "Side light",
+          "detail": "Use natural light from a window-side seat."
+        },
+        {
+          "label": "High 45°",
+          "detail": "Shoot looking down at a 45° angle from above."
+        },
+        {
+          "label": "2–4x zoom",
+          "detail": "Stay at least 2 metres away and use 2–4x zoom."
+        },
+        {
+          "label": "Vertex placement",
+          "detail": "Place the two subjects diagonally at grid intersections — the smaller one at the bottom, the larger one at the top."
+        }
+      ],
+      "tip": "A diagonal arrangement adds visual tension.",
+      "diagram": "diagrams/10-two-point-vertex.webp",
+      "example": "examples/10-two-point-vertex.webp",
+      "url": "https://www.slaycamera.com/guides/two-point-vertex",
+      "article": "https://www.slaycamera.com/blog/frame-within-a-frame"
+    },
+    {
+      "id": 11,
+      "slug": "triangle-1",
+      "name": "Triangle 1",
+      "category": "Food & café",
+      "principle": "Three subjects in a triangle",
+      "short": "Three items as triangle points in the lower two-thirds.",
+      "summary": "Three items arranged as the points of a triangle in the lower two-thirds of the frame. Triangles are the most stable shape in composition, so a busy table still feels ordered.",
+      "steps": [
+        {
+          "label": "Side light",
+          "detail": "Use natural light from a window-side seat."
+        },
+        {
+          "label": "High 45°",
+          "detail": "Shoot looking down at a 45° angle from above."
+        },
+        {
+          "label": "2–4x zoom",
+          "detail": "Stay at least 2 metres from the scene and use 2–4x zoom."
+        },
+        {
+          "label": "Triangle placement",
+          "detail": "Arrange three subjects in the 2/3 area as the points of a triangle."
+        }
+      ],
+      "tip": "Place smaller subjects at the bottom so the larger ones aren't blocked.",
+      "diagram": "diagrams/11-triangle-1.webp",
+      "example": "examples/11-triangle-1.webp",
+      "url": "https://www.slaycamera.com/guides/triangle-1",
+      "article": "https://www.slaycamera.com/blog/layered-foregrounds-tell-a-story"
+    },
+    {
+      "id": 12,
+      "slug": "triangle-2",
+      "name": "Triangle 2",
+      "category": "Food & café",
+      "principle": "Wide triangle across the frame",
+      "short": "A wide triangle of three items across the whole table.",
+      "summary": "A wider triangle that spreads three items across the whole table — cup, glass and plate — so the frame reads as one scene with a story.",
+      "steps": [
+        {
+          "label": "Side light",
+          "detail": "Use natural light from a window-side seat."
+        },
+        {
+          "label": "High 45°",
+          "detail": "Shoot looking down at a 45° angle from above."
+        },
+        {
+          "label": "2–4x zoom",
+          "detail": "Stay at least 2 metres from the scene and use 2–4x zoom."
+        },
+        {
+          "label": "Triangle placement",
+          "detail": "Arrange three subjects as the points of a triangle."
+        }
+      ],
+      "tip": "Place smaller subjects at the bottom so the larger ones aren't blocked.",
+      "diagram": "diagrams/12-triangle-2.webp",
+      "example": "examples/12-triangle-2.webp",
+      "url": "https://www.slaycamera.com/guides/triangle-2",
+      "article": "https://www.slaycamera.com/blog/tell-a-story-single-frame"
+    },
+    {
+      "id": 13,
+      "slug": "aerial-triangle",
+      "name": "Aerial Triangle",
+      "category": "Food & café",
+      "principle": "Top-down flat lay, items in a triangle",
+      "short": "Top-down flat lay with the items arranged in a triangle.",
+      "summary": "A straight-down flat lay of a table, with the items arranged as triangle points in the lower two-thirds. The overhead view turns plates and glasses into clean shapes.",
+      "steps": [
+        {
+          "label": "Side light",
+          "detail": "Use natural light from a window-side seat."
+        },
+        {
+          "label": "Top-down (90°)",
+          "detail": "Shoot straight down at a 90° vertical angle."
+        },
+        {
+          "label": "1–2x zoom",
+          "detail": "Stay at least 1 metre from the subject and use 1–2x zoom."
+        },
+        {
+          "label": "Triangle placement",
+          "detail": "Place the table in the 2/3 area and arrange the items as triangle points."
+        }
+      ],
+      "tip": "Clear everything except the background, the table and the subject.",
+      "diagram": "diagrams/13-aerial-triangle.webp",
+      "example": "examples/13-aerial-triangle.webp",
+      "url": "https://www.slaycamera.com/guides/aerial-triangle",
+      "article": "https://www.slaycamera.com/blog/negative-space-best-friend"
+    },
+    {
+      "id": 14,
+      "slug": "one-point-aerial",
+      "name": "One-Point Aerial",
+      "category": "Food & café",
+      "principle": "Top-down flat lay, single hero dish",
+      "short": "Top-down shot of one hero dish on the bottom grid line.",
+      "summary": "A straight-down shot of one hero dish, centered on the bottom grid line with the table filling two-thirds of the frame. Minimal, graphic and made for food accounts.",
+      "steps": [
+        {
+          "label": "Side light",
+          "detail": "Use natural light from a window-side seat."
+        },
+        {
+          "label": "Top-down (90°)",
+          "detail": "Shoot straight down at a 90° vertical angle."
+        },
+        {
+          "label": "1–2x zoom",
+          "detail": "Stay at least 1 metre from the subject and use 1–2x zoom."
+        },
+        {
+          "label": "Subject placement",
+          "detail": "Align the table with the 2/3 area and place the subject at the center of the bottom grid line."
+        }
+      ],
+      "tip": "Clear everything except the background, the table and the subject.",
+      "diagram": "diagrams/14-one-point-aerial.webp",
+      "example": "examples/14-one-point-aerial.webp",
+      "url": "https://www.slaycamera.com/guides/one-point-aerial",
+      "article": "https://www.slaycamera.com/blog/minimal-color-maximum-mood"
+    }
+  ]
+}
