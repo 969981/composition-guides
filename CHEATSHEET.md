@@ -1,34 +1,38 @@
-# Composition cheat sheet
+# 摄影构图一页速查表（简体中文）
 
-One page, 14 recipes. Height · angle · zoom · placement. From [slay](https://www.slaycamera.com/?utm_source=github&utm_medium=repo&utm_campaign=composition-guides) (CC BY 4.0).
+[完整中文图文指南](README.md) · [English cheat sheet](CHEATSHEET.en.md)
 
-## Portrait
+14 种实用摄影构图：**机位 / 拍摄角度 · 变焦 · 距离 · 主体摆放**。原始资料：[slay](https://www.slaycamera.com/?utm_source=github&utm_medium=repo&utm_campaign=composition-guides)（CC BY 4.0）。
 
-| Guide | Step 1 | Step 2 | Step 3 | Step 4 |
+## 人像摄影
+
+| 构图方法 | 步骤 1 | 步骤 2 | 步骤 3 | 步骤 4 |
 |---|---|---|---|---|
-| **Portrait 1** | **Camera height** — Hold the camera at the subject's chest height. | **1.5x zoom** — Shoot with 1.5x zoom to keep proportions natural. | **4m+ distance** — Stand at least 4 metres away from the subject. | **Head at center** — Align the subject's head with the center of the frame. |
-| **Portrait 2** | **Camera height** — Hold the camera at the subject's chest height. | **2x zoom** — Shoot with 2x zoom. | **4m+ distance** — Stand at least 4 metres away from the subject. | **Head on top 1/3 line** — Align the head near the top third guide line. |
-| **Close Up** | **Camera height** — Hold the camera at the subject's chest height. | **3x zoom** — Shoot with 3x zoom. | **4m+ distance** — Stand at least 4 metres away from the subject. | **Head on top 1/3 line** — Align the head near the top third guide line. |
-| **Side Chick** | **Camera height** — Hold the camera at the subject's chest height. | **3–4x zoom** — Shoot with 3–4x zoom. | **8m+ distance** — Stand at least 8 metres away from the subject. | **Head on top 1/3 line** — Place the subject in the side box with the head near the top third line. |
+| [**居中全身人像**](README.md#guide-1) | **相机高度** — 将相机保持在被摄者胸口的高度。 | **1.5 倍变焦** — 使用 1.5 倍变焦，保持自然的人物比例。 | **距离至少 4 米** — 拍摄者与人物至少相距 4 米。 | **头部居中** — 将人物头部对准画面中央。 |
+| [**三分法人像**](README.md#guide-2) | **相机高度** — 将相机保持在被摄者胸口的高度。 | **2 倍变焦** — 使用 2 倍变焦拍摄。 | **距离至少 4 米** — 拍摄者与人物至少相距 4 米。 | **头部对齐上三分线** — 将头部放在靠近上方三分线的位置。 |
+| [**长焦半身特写**](README.md#guide-3) | **相机高度** — 将相机保持在被摄者胸口的高度。 | **3 倍变焦** — 使用 3 倍变焦拍摄。 | **距离至少 4 米** — 拍摄者与人物至少相距 4 米。 | **头部对齐上三分线** — 将头部放在靠近上方三分线的位置。 |
+| [**偏侧环境人像**](README.md#guide-4) | **相机高度** — 将相机保持在被摄者胸口的高度。 | **3–4 倍变焦** — 使用 3–4 倍变焦拍摄。 | **距离至少 8 米** — 拍摄者与人物至少相距 8 米。 | **头部靠近上三分线** — 把人物放在侧边区域，头部靠近上方三分线。 |
 
-## Travel & scenery
+## 旅行与风景
 
-| Guide | Step 1 | Step 2 | Step 3 | Step 4 |
+| 构图方法 | 步骤 1 | 步骤 2 | 步骤 3 | 步骤 4 |
 |---|---|---|---|---|
-| **Travel Shot** | **Front light** — Face the scene with the sun behind you, ideally when shadows are minimal. | **High 15°** — Look down at a 15° angle, shooting from slightly higher than the subject. | **2–3x zoom** — Stay 5–10 metres from the subject and use 2–3x zoom. | **Subject placement** — Place the subject small at the bottom center to emphasize the scenery. |
-| **One-Third** | **Any direction** — Works in any light direction; looks especially natural with side light. | **Eye level** — Set the camera at eye level and shoot. | **1.5x zoom** — Stay at least 3 metres from the scene and use 1.5x zoom. | **1/3 placement** — Place the main scene in the 1/3 area, separate it from its surroundings and line it up with the rule-of-thirds grid. |
-| **Two-Third** | **Any direction** — Works in any light direction; looks especially natural with side light. | **Eye level** — Set the camera at eye level and shoot. | **1.5x zoom** — Stay at least 3 metres from the scene and use 1.5x zoom. | **2/3 placement** — Place the main scene in the 2/3 area, separate it from its surroundings and line it up with the rule-of-thirds grid. |
+| [**旅行小人像**](README.md#guide-5) | **顺光** — 尽量让太阳位于拍摄者身后，选择阴影较少的光线条件。 | **稍高机位、俯拍 15°** — 相机稍高于人物，向下倾斜约 15° 拍摄。 | **2–3 倍变焦** — 与人物保持约 5–10 米距离，使用 2–3 倍变焦。 | **人物位置** — 将人物较小地安排在画面下方中央，突出风景。 |
+| [**下方三分之一构图**](README.md#guide-6) | **光线方向不限** — 各种光线方向均适用，侧光通常更自然。 | **平视机位** — 将相机放在眼睛高度拍摄。 | **1.5 倍变焦** — 与景物至少保持 3 米距离，使用 1.5 倍变焦。 | **三分之一位置** — 让主体景物位于画面三分之一区域，与三分法网格线对齐，并明确划分主体和周围空间。 |
+| [**三分之二主体构图**](README.md#guide-7) | **光线方向不限** — 各种光线方向均适用，侧光通常更自然。 | **平视机位** — 将相机放在眼睛高度拍摄。 | **1.5 倍变焦** — 与景物至少保持 3 米距离，使用 1.5 倍变焦。 | **三分之二位置** — 让主体景物位于画面三分之二区域，与三分法网格线对齐，并明确划分主体和周围空间。 |
 
-## Food & café
+## 美食与咖啡馆
 
-| Guide | Step 1 | Step 2 | Step 3 | Step 4 |
+| 构图方法 | 步骤 1 | 步骤 2 | 步骤 3 | 步骤 4 |
 |---|---|---|---|---|
-| **Vanishing Point** | **Side light** — Use natural light from a window-side seat. | **High 45°** — Shoot looking down at a 45° angle from above. | **2–4x zoom** — Stay at least 2 metres from the scene and use 2–4x zoom. | **Corner placement** — Place the subject at the center, inside the square table corner. |
-| **One-Point Vertex** | **Side light** — Use natural light from a window-side seat. | **High 45°** — Shoot looking down at a 45° angle from above. | **2–4x zoom** — Stay at least 2 metres away and use 2–4x zoom. | **Vertex placement** — Place the subject diagonally at a grid intersection and leave the opposite side empty. |
-| **Two-Point Vertex** | **Side light** — Use natural light from a window-side seat. | **High 45°** — Shoot looking down at a 45° angle from above. | **2–4x zoom** — Stay at least 2 metres away and use 2–4x zoom. | **Vertex placement** — Place the two subjects diagonally at grid intersections — the smaller one at the bottom, the larger one at the top. |
-| **Triangle 1** | **Side light** — Use natural light from a window-side seat. | **High 45°** — Shoot looking down at a 45° angle from above. | **2–4x zoom** — Stay at least 2 metres from the scene and use 2–4x zoom. | **Triangle placement** — Arrange three subjects in the 2/3 area as the points of a triangle. |
-| **Triangle 2** | **Side light** — Use natural light from a window-side seat. | **High 45°** — Shoot looking down at a 45° angle from above. | **2–4x zoom** — Stay at least 2 metres from the scene and use 2–4x zoom. | **Triangle placement** — Arrange three subjects as the points of a triangle. |
-| **Aerial Triangle** | **Side light** — Use natural light from a window-side seat. | **Top-down (90°)** — Shoot straight down at a 90° vertical angle. | **1–2x zoom** — Stay at least 1 metre from the subject and use 1–2x zoom. | **Triangle placement** — Place the table in the 2/3 area and arrange the items as triangle points. |
-| **One-Point Aerial** | **Side light** — Use natural light from a window-side seat. | **Top-down (90°)** — Shoot straight down at a 90° vertical angle. | **1–2x zoom** — Stay at least 1 metre from the subject and use 1–2x zoom. | **Subject placement** — Align the table with the 2/3 area and place the subject at the center of the bottom grid line. |
+| [**消失点构图**](README.md#guide-8) | **侧光** — 优先利用靠窗座位的自然光。 | **俯拍 45°** — 从上方向下倾斜约 45° 拍摄。 | **2–4 倍变焦** — 与场景至少保持 2 米距离，使用 2–4 倍变焦。 | **桌角位置** — 将主体放在画面中央、方形桌角包围的区域内。 |
+| [**单交点构图**](README.md#guide-9) | **侧光** — 优先利用靠窗座位的自然光。 | **俯拍 45°** — 从上方向下倾斜约 45° 拍摄。 | **2–4 倍变焦** — 与主体至少保持 2 米距离，使用 2–4 倍变焦。 | **交点位置** — 沿对角线将主体放在一个网格交点，对面区域留白。 |
+| [**双交点对角线构图**](README.md#guide-10) | **侧光** — 优先利用靠窗座位的自然光。 | **俯拍 45°** — 从上方向下倾斜约 45° 拍摄。 | **2–4 倍变焦** — 与主体至少保持 2 米距离，使用 2–4 倍变焦。 | **对角交点** — 将两个主体沿对角线放在网格交点，小主体位于下方，大主体位于上方。 |
+| [**三角形构图一**](README.md#guide-11) | **侧光** — 优先利用靠窗座位的自然光。 | **俯拍 45°** — 从上方向下倾斜约 45° 拍摄。 | **2–4 倍变焦** — 与场景至少保持 2 米距离，使用 2–4 倍变焦。 | **三角形排列** — 在画面三分之二区域内，将三个主体布置在三角形三个顶点。 |
+| [**三角形构图二**](README.md#guide-12) | **侧光** — 优先利用靠窗座位的自然光。 | **俯拍 45°** — 从上方向下倾斜约 45° 拍摄。 | **2–4 倍变焦** — 与场景至少保持 2 米距离，使用 2–4 倍变焦。 | **三角形排列** — 让三个主体分别占据三角形的三个顶点。 |
+| [**俯拍三角形构图**](README.md#guide-13) | **侧光** — 优先利用靠窗座位的自然光。 | **垂直俯拍 90°** — 相机朝正下方，以 90° 垂直角度拍摄。 | **1–2 倍变焦** — 与主体至少保持 1 米距离，使用 1–2 倍变焦。 | **三角形排列** — 让桌面占据画面三分之二区域，把物件安排成三角形三个顶点。 |
+| [**俯拍单主体构图**](README.md#guide-14) | **侧光** — 优先利用靠窗座位的自然光。 | **垂直俯拍 90°** — 相机朝正下方，以 90° 垂直角度拍摄。 | **1–2 倍变焦** — 与主体至少保持 1 米距离，使用 1–2 倍变焦。 | **主体位置** — 让桌面与画面三分之二区域对齐，将主菜放在下方网格线的中央。 |
 
-See each guide's diagram in the [README](README.md) or live on your iPhone with [slay](https://apps.apple.com/app/id6807513456?utm_source=github&utm_medium=repo&utm_campaign=composition-guides).
+在 [完整中文图文指南](README.md) 中查看 14 张构图示意图和 14 张样片，也可以通过 [slay iPhone 应用](https://apps.apple.com/app/id6807513456?utm_source=github&utm_medium=repo&utm_campaign=composition-guides) 在取景器中显示相应构图引导。
+
+本速查表为原作者 slay 的简体中文翻译，原始图片和数值未修改，依据 [CC BY 4.0](LICENSE) 授权使用。
