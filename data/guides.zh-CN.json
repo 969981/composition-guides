@@ -1,0 +1,455 @@
+{
+  "source": "https://www.slaycamera.com/guides",
+  "license": "CC-BY-4.0",
+  "guides": [
+    {
+      "id": 1,
+      "slug": "portrait-1",
+      "name": "居中全身人像",
+      "category": "人像摄影",
+      "principle": "人物居中、完整呈现全身",
+      "short": "距离约 4 米，使用 1.5 倍变焦，将头部放在画面中央。",
+      "summary": "让人物站在画面中央，拍摄完整的全身人像，同时保留周围环境。居中构图平稳、自信，适当拉开距离还能完整展示穿搭。",
+      "steps": [
+        {
+          "label": "相机高度",
+          "detail": "将相机保持在被摄者胸口的高度。"
+        },
+        {
+          "label": "1.5 倍变焦",
+          "detail": "使用 1.5 倍变焦，保持自然的人物比例。"
+        },
+        {
+          "label": "距离至少 4 米",
+          "detail": "拍摄者与人物至少相距 4 米。"
+        },
+        {
+          "label": "头部居中",
+          "detail": "将人物头部对准画面中央。"
+        }
+      ],
+      "tip": null,
+      "diagram": "diagrams/01-portrait-1.webp",
+      "example": "examples/01-portrait-1.webp",
+      "url": "https://www.slaycamera.com/guides/portrait-1",
+      "article": "https://www.slaycamera.com/blog/center-subject-own-the-frame"
+    },
+    {
+      "id": 2,
+      "slug": "portrait-2",
+      "name": "三分法人像",
+      "category": "人像摄影",
+      "principle": "人物头部靠近上方三分线",
+      "short": "头部放在上方三分线上，使用 2 倍变焦。",
+      "summary": "适用于全身或坐姿人像：让人物头部靠近上方三分线。相较于居中全身照，人物在画面中占比更大，但仍能交代周围环境。",
+      "steps": [
+        {
+          "label": "相机高度",
+          "detail": "将相机保持在被摄者胸口的高度。"
+        },
+        {
+          "label": "2 倍变焦",
+          "detail": "使用 2 倍变焦拍摄。"
+        },
+        {
+          "label": "距离至少 4 米",
+          "detail": "拍摄者与人物至少相距 4 米。"
+        },
+        {
+          "label": "头部对齐上三分线",
+          "detail": "将头部放在靠近上方三分线的位置。"
+        }
+      ],
+      "tip": null,
+      "diagram": "diagrams/02-portrait-2.webp",
+      "example": "examples/02-portrait-2.webp",
+      "url": "https://www.slaycamera.com/guides/portrait-2",
+      "article": "https://www.slaycamera.com/blog/low-angle-go-dramatic"
+    },
+    {
+      "id": 3,
+      "slug": "close-up",
+      "name": "长焦半身特写",
+      "category": "人像摄影",
+      "principle": "使用长焦拍摄半身人像",
+      "short": "在较远距离使用 3 倍变焦拍摄半身照，让背景更简洁。",
+      "summary": "使用长焦镜头拍摄半身人像。先后退、再拉近画面，可以减轻近距离广角透视的夸张感，使背景看起来更紧凑，营造杂志风格。",
+      "steps": [
+        {
+          "label": "相机高度",
+          "detail": "将相机保持在被摄者胸口的高度。"
+        },
+        {
+          "label": "3 倍变焦",
+          "detail": "使用 3 倍变焦拍摄。"
+        },
+        {
+          "label": "距离至少 4 米",
+          "detail": "拍摄者与人物至少相距 4 米。"
+        },
+        {
+          "label": "头部对齐上三分线",
+          "detail": "将头部放在靠近上方三分线的位置。"
+        }
+      ],
+      "tip": null,
+      "diagram": "diagrams/03-close-up.webp",
+      "example": "examples/03-close-up.webp",
+      "url": "https://www.slaycamera.com/guides/close-up",
+      "article": "https://www.slaycamera.com/blog/texture-is-emotion-in-close-up"
+    },
+    {
+      "id": 4,
+      "slug": "side-chick",
+      "name": "偏侧环境人像",
+      "category": "人像摄影",
+      "principle": "人物偏侧、利用环境叙事",
+      "short": "用 3–4 倍变焦让人物偏离中心，借环境讲故事。",
+      "summary": "让人物位于画面一侧，将其余空间留给咖啡馆桌面、门廊或街道等环境。这样不仅能表现人物，还能传达人物身处的场景和氛围。",
+      "steps": [
+        {
+          "label": "相机高度",
+          "detail": "将相机保持在被摄者胸口的高度。"
+        },
+        {
+          "label": "3–4 倍变焦",
+          "detail": "使用 3–4 倍变焦拍摄。"
+        },
+        {
+          "label": "距离至少 8 米",
+          "detail": "拍摄者与人物至少相距 8 米。"
+        },
+        {
+          "label": "头部靠近上三分线",
+          "detail": "把人物放在侧边区域，头部靠近上方三分线。"
+        }
+      ],
+      "tip": null,
+      "diagram": "diagrams/04-side-chick.webp",
+      "example": "examples/04-side-chick.webp",
+      "url": "https://www.slaycamera.com/guides/side-chick",
+      "article": "https://www.slaycamera.com/blog/break-the-rule-keep-the-feeling"
+    },
+    {
+      "id": 5,
+      "slug": "travel-shot",
+      "name": "旅行小人像",
+      "category": "旅行与风景",
+      "principle": "人物小、风景大",
+      "short": "人物放在画面下方，大片风景留在上方。",
+      "summary": "经典旅行照以目的地为主角：人物在画面底部显得较小，地标或自然风景占据上方的大部分空间。",
+      "steps": [
+        {
+          "label": "顺光",
+          "detail": "尽量让太阳位于拍摄者身后，选择阴影较少的光线条件。"
+        },
+        {
+          "label": "稍高机位、俯拍 15°",
+          "detail": "相机稍高于人物，向下倾斜约 15° 拍摄。"
+        },
+        {
+          "label": "2–3 倍变焦",
+          "detail": "与人物保持约 5–10 米距离，使用 2–3 倍变焦。"
+        },
+        {
+          "label": "人物位置",
+          "detail": "将人物较小地安排在画面下方中央，突出风景。"
+        }
+      ],
+      "tip": "拍摄两人时，可把两人分别放在画面底部两侧，让他们相向而立。",
+      "diagram": "diagrams/05-travel-shot.webp",
+      "example": "examples/05-travel-shot.webp",
+      "url": "https://www.slaycamera.com/guides/travel-shot",
+      "article": "https://www.slaycamera.com/blog/clean-horizon-keeps-it-calm"
+    },
+    {
+      "id": 6,
+      "slug": "one-third",
+      "name": "下方三分之一构图",
+      "category": "旅行与风景",
+      "principle": "主体占下方三分之一",
+      "short": "主景约占画面三分之一，天空占另外三分之二。",
+      "summary": "让桥梁、建筑、地平线等主要景物位于画面三分之一区域，让天空占据其余三分之二。照片会显得简洁、通透，适合拍摄清爽的风景。",
+      "steps": [
+        {
+          "label": "光线方向不限",
+          "detail": "各种光线方向均适用，侧光通常更自然。"
+        },
+        {
+          "label": "平视机位",
+          "detail": "将相机放在眼睛高度拍摄。"
+        },
+        {
+          "label": "1.5 倍变焦",
+          "detail": "与景物至少保持 3 米距离，使用 1.5 倍变焦。"
+        },
+        {
+          "label": "三分之一位置",
+          "detail": "让主体景物位于画面三分之一区域，与三分法网格线对齐，并明确划分主体和周围空间。"
+        }
+      ],
+      "tip": "利用桥梁等水平线或立柱，将画面分隔为不同区域。",
+      "diagram": "diagrams/06-one-third.webp",
+      "example": "examples/06-one-third.webp",
+      "url": "https://www.slaycamera.com/guides/one-third",
+      "article": "https://www.slaycamera.com/blog/rule-of-thirds-let-the-sky-breathe"
+    },
+    {
+      "id": 7,
+      "slug": "two-third",
+      "name": "三分之二主体构图",
+      "category": "旅行与风景",
+      "principle": "主体占画面三分之二",
+      "short": "主体占据画面约三分之二，留出天空或地面作平衡。",
+      "summary": "与下方三分之一构图相对：让高塔、树木、建筑等主体占据画面约三分之二，只保留少量天空或地面形成平衡。",
+      "steps": [
+        {
+          "label": "光线方向不限",
+          "detail": "各种光线方向均适用，侧光通常更自然。"
+        },
+        {
+          "label": "平视机位",
+          "detail": "将相机放在眼睛高度拍摄。"
+        },
+        {
+          "label": "1.5 倍变焦",
+          "detail": "与景物至少保持 3 米距离，使用 1.5 倍变焦。"
+        },
+        {
+          "label": "三分之二位置",
+          "detail": "让主体景物位于画面三分之二区域，与三分法网格线对齐，并明确划分主体和周围空间。"
+        }
+      ],
+      "tip": "利用水平线或柱状元素来分隔画面。",
+      "diagram": "diagrams/07-two-third.webp",
+      "example": "examples/07-two-third.webp",
+      "url": "https://www.slaycamera.com/guides/two-third",
+      "article": "https://www.slaycamera.com/blog/two-thirds-focus-rule"
+    },
+    {
+      "id": 8,
+      "slug": "vanishing-point",
+      "name": "消失点构图",
+      "category": "美食与咖啡馆",
+      "principle": "桌角线条汇聚到主体",
+      "short": "利用桌面边缘的汇聚线，把视线引向咖啡或美食。",
+      "summary": "在咖啡馆或美食场景中，让桌子边缘线条朝主体汇聚，引导观众视线。桌角还能在照片中形成一个天然的取景框。",
+      "steps": [
+        {
+          "label": "侧光",
+          "detail": "优先利用靠窗座位的自然光。"
+        },
+        {
+          "label": "俯拍 45°",
+          "detail": "从上方向下倾斜约 45° 拍摄。"
+        },
+        {
+          "label": "2–4 倍变焦",
+          "detail": "与场景至少保持 2 米距离，使用 2–4 倍变焦。"
+        },
+        {
+          "label": "桌角位置",
+          "detail": "将主体放在画面中央、方形桌角包围的区域内。"
+        }
+      ],
+      "tip": "移走无关杂物，只保留背景、桌面和拍摄主体。",
+      "diagram": "diagrams/08-vanishing-point.webp",
+      "example": "examples/08-vanishing-point.webp",
+      "url": "https://www.slaycamera.com/guides/vanishing-point",
+      "article": "https://www.slaycamera.com/blog/vanishing-point-composition-explained"
+    },
+    {
+      "id": 9,
+      "slug": "one-point-vertex",
+      "name": "单交点构图",
+      "category": "美食与咖啡馆",
+      "principle": "单个主体置于网格交点",
+      "short": "将单个主体放在网格交点，另一侧适当留白。",
+      "summary": "把饮品或甜点等单个主体放在三分法网格的交点上，对侧留出空间。非对称布局既能营造纵深，也让注意力集中在主体上。",
+      "steps": [
+        {
+          "label": "侧光",
+          "detail": "优先利用靠窗座位的自然光。"
+        },
+        {
+          "label": "俯拍 45°",
+          "detail": "从上方向下倾斜约 45° 拍摄。"
+        },
+        {
+          "label": "2–4 倍变焦",
+          "detail": "与主体至少保持 2 米距离，使用 2–4 倍变焦。"
+        },
+        {
+          "label": "交点位置",
+          "detail": "沿对角线将主体放在一个网格交点，对面区域留白。"
+        }
+      ],
+      "tip": "这样既能突出主体，也能传达空间纵深感。",
+      "diagram": "diagrams/09-one-point-vertex.webp",
+      "example": "examples/09-one-point-vertex.webp",
+      "url": "https://www.slaycamera.com/guides/one-point-vertex",
+      "article": "https://www.slaycamera.com/blog/find-symmetry-calm-the-shot"
+    },
+    {
+      "id": 10,
+      "slug": "two-point-vertex",
+      "name": "双交点对角线构图",
+      "category": "美食与咖啡馆",
+      "principle": "两个主体沿对角线排列",
+      "short": "两个主体沿对角线分布：小的在下，大的在上。",
+      "summary": "把饮品、糕点等两个主体分别放在对角线两端的网格交点上。它们之间的斜线能增强画面动感，并引导视线穿过画面。",
+      "steps": [
+        {
+          "label": "侧光",
+          "detail": "优先利用靠窗座位的自然光。"
+        },
+        {
+          "label": "俯拍 45°",
+          "detail": "从上方向下倾斜约 45° 拍摄。"
+        },
+        {
+          "label": "2–4 倍变焦",
+          "detail": "与主体至少保持 2 米距离，使用 2–4 倍变焦。"
+        },
+        {
+          "label": "对角交点",
+          "detail": "将两个主体沿对角线放在网格交点，小主体位于下方，大主体位于上方。"
+        }
+      ],
+      "tip": "对角线布局能增加视觉张力。",
+      "diagram": "diagrams/10-two-point-vertex.webp",
+      "example": "examples/10-two-point-vertex.webp",
+      "url": "https://www.slaycamera.com/guides/two-point-vertex",
+      "article": "https://www.slaycamera.com/blog/frame-within-a-frame"
+    },
+    {
+      "id": 11,
+      "slug": "triangle-1",
+      "name": "三角形构图一",
+      "category": "美食与咖啡馆",
+      "principle": "三个主体组成三角形",
+      "short": "在画面下方三分之二区域，将三个物件排成三角形。",
+      "summary": "在画面下方三分之二区域，让三个物件分别占据三角形的三个顶点。三角形构图稳定，即使桌面元素较多也能显得有序。",
+      "steps": [
+        {
+          "label": "侧光",
+          "detail": "优先利用靠窗座位的自然光。"
+        },
+        {
+          "label": "俯拍 45°",
+          "detail": "从上方向下倾斜约 45° 拍摄。"
+        },
+        {
+          "label": "2–4 倍变焦",
+          "detail": "与场景至少保持 2 米距离，使用 2–4 倍变焦。"
+        },
+        {
+          "label": "三角形排列",
+          "detail": "在画面三分之二区域内，将三个主体布置在三角形三个顶点。"
+        }
+      ],
+      "tip": "把较小的物件放在下方，避免遮挡后方较大的物件。",
+      "diagram": "diagrams/11-triangle-1.webp",
+      "example": "examples/11-triangle-1.webp",
+      "url": "https://www.slaycamera.com/guides/triangle-1",
+      "article": "https://www.slaycamera.com/blog/layered-foregrounds-tell-a-story"
+    },
+    {
+      "id": 12,
+      "slug": "triangle-2",
+      "name": "三角形构图二",
+      "category": "美食与咖啡馆",
+      "principle": "宽三角形横跨画面",
+      "short": "三个物件横跨整张桌面，组成跨度较大的三角形。",
+      "summary": "把杯子、玻璃杯和餐盘等三个物件分布在整个桌面上，构成较宽的三角形，让画面呈现一个完整、有情节的场景。",
+      "steps": [
+        {
+          "label": "侧光",
+          "detail": "优先利用靠窗座位的自然光。"
+        },
+        {
+          "label": "俯拍 45°",
+          "detail": "从上方向下倾斜约 45° 拍摄。"
+        },
+        {
+          "label": "2–4 倍变焦",
+          "detail": "与场景至少保持 2 米距离，使用 2–4 倍变焦。"
+        },
+        {
+          "label": "三角形排列",
+          "detail": "让三个主体分别占据三角形的三个顶点。"
+        }
+      ],
+      "tip": "把较小的物件放在下方，避免遮挡后方较大的物件。",
+      "diagram": "diagrams/12-triangle-2.webp",
+      "example": "examples/12-triangle-2.webp",
+      "url": "https://www.slaycamera.com/guides/triangle-2",
+      "article": "https://www.slaycamera.com/blog/tell-a-story-single-frame"
+    },
+    {
+      "id": 13,
+      "slug": "aerial-triangle",
+      "name": "俯拍三角形构图",
+      "category": "美食与咖啡馆",
+      "principle": "垂直俯拍、静物呈三角形",
+      "short": "从正上方俯拍，把桌上物件排列成三角形。",
+      "summary": "垂直俯拍桌面，让物件形成的三角形位于画面下方三分之二区域。俯视视角可把餐盘、杯子呈现为简洁的几何形状。",
+      "steps": [
+        {
+          "label": "侧光",
+          "detail": "优先利用靠窗座位的自然光。"
+        },
+        {
+          "label": "垂直俯拍 90°",
+          "detail": "相机朝正下方，以 90° 垂直角度拍摄。"
+        },
+        {
+          "label": "1–2 倍变焦",
+          "detail": "与主体至少保持 1 米距离，使用 1–2 倍变焦。"
+        },
+        {
+          "label": "三角形排列",
+          "detail": "让桌面占据画面三分之二区域，把物件安排成三角形三个顶点。"
+        }
+      ],
+      "tip": "移走无关杂物，只保留背景、桌面和拍摄主体。",
+      "diagram": "diagrams/13-aerial-triangle.webp",
+      "example": "examples/13-aerial-triangle.webp",
+      "url": "https://www.slaycamera.com/guides/aerial-triangle",
+      "article": "https://www.slaycamera.com/blog/negative-space-best-friend"
+    },
+    {
+      "id": 14,
+      "slug": "one-point-aerial",
+      "name": "俯拍单主体构图",
+      "category": "美食与咖啡馆",
+      "principle": "垂直俯拍、突出一道主菜",
+      "short": "从正上方俯拍，将主菜放在画面下方网格线上。",
+      "summary": "从正上方拍摄一道主菜，把它放在画面下方网格线的中央，让桌面占画面约三分之二。整体极简、图形感强，适合美食内容。",
+      "steps": [
+        {
+          "label": "侧光",
+          "detail": "优先利用靠窗座位的自然光。"
+        },
+        {
+          "label": "垂直俯拍 90°",
+          "detail": "相机朝正下方，以 90° 垂直角度拍摄。"
+        },
+        {
+          "label": "1–2 倍变焦",
+          "detail": "与主体至少保持 1 米距离，使用 1–2 倍变焦。"
+        },
+        {
+          "label": "主体位置",
+          "detail": "让桌面与画面三分之二区域对齐，将主菜放在下方网格线的中央。"
+        }
+      ],
+      "tip": "移走无关杂物，只保留背景、桌面和拍摄主体。",
+      "diagram": "diagrams/14-one-point-aerial.webp",
+      "example": "examples/14-one-point-aerial.webp",
+      "url": "https://www.slaycamera.com/guides/one-point-aerial",
+      "article": "https://www.slaycamera.com/blog/minimal-color-maximum-mood"
+    }
+  ],
+  "language": "zh-CN"
+}
