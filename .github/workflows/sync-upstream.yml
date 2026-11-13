@@ -1,0 +1,56 @@
+name: Sync upstream composition guides
+
+on:
+  schedule:
+    # Daily at 11:17 Asia/Shanghai / Asia/Singapore (03:17 UTC).
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-upstream-main
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    name: Merge upstream into main
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out main with full history
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Merge upstream updates safely
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git remote add upstream https://github.com/slaycamera/composition-guides.git
+          git fetch --no-tags upstream main
+
+          upstream_sha="$(git rev-parse FETCH_HEAD)"
+          echo "Upstream main: $upstream_sha"
+          echo "Local main:    $(git rev-parse HEAD)"
+
+          if git merge-base --is-ancestor "$upstream_sha" HEAD; then
+            echo "Already up to date; no push needed."
+            exit 0
+          fi
+
+          # Never force-push or discard local commits. A merge conflict fails
+          # this run without pushing; resolve it manually in that case.
+          git merge --no-edit --no-ff -m "chore: sync upstream slaycamera/main" "$upstream_sha"
+          git push origin HEAD:main
+          echo "Synced upstream changes into main."
+
+          # The i18n/zh-CN branch is intentionally never modified here.
